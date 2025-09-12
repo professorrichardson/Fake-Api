@@ -1,24 +1,49 @@
 {
-  "users": [
-    {
-      "login": "professorrichardson",
-      "id": 1,
-      "avatar_url": "https://avatars.githubusercontent.com/u/125823124?v=4",
-      "name": "Richardson Schawarski Cruz",
-      "email": "richardson.cruz@escola.pr.gov.br",
-      "followers": 43,
-      "following": 54
-    },
-    {
-      "login": "nataliakt",
-      "id": 2,
-      "avatar_url": "https://avatars.githubusercontent.com/u/9091491?v=4",
-      "name": "Natalia Kelim Thiel",
-      "email": "natalia@email.com",
-      "followers": 51,
-      "following": 7
-    }
-  ],
+		"login": "professorrichardson",
+		"id": 1,
+		"avatar_url": "https://avatars.githubusercontent.com/u/125823124?v=4",
+		"name": "Richardson Schawarski Cruz",
+		"email": "richardson.cruz@escola.pr.gov.br",
+		"followers": 43,
+		"following": 54
+	},
+	{
+		"login": "TokDoGrau",
+		"id": 8,
+		"avatar_url": "https://avatars.githubusercontent.com/u/125823124?v=4",
+		"name": "TokDoGrau",
+		"email": "TokDoGrau244@gmail.com",
+		"followers": 1,
+		"following": 0
+	},
+	{
+		"login": "Alan-campos17",
+		"id": 5,
+		"avatar_url": "https://avatars.githubusercontent.com/u/149601081?v=4",
+		"name": "Alan campos Macena",
+		"email": "alan.macena@escola.pr.gov.br",
+		"followers": 2,
+		"following": 1
+	},
+	{
+		"login": "mariaciril",
+		"id": 4,
+		"avatar_url": "https://avatars.githubusercontent.com/u/149600889?v=4&size=64",
+		"name": "Maria Eduarda de Oliveira Ciril",
+		"email": "maria.ciril@escola.pr.gov.br",
+		"followers": 44,
+		"following": 44
+	},
+	{
+		"login": "rafaela-eduarda",
+		"id": 7,
+		"avatar_url": "https://avatars.githubusercontent.com/u/149601165?v=4&size=64",
+		"name": "Rafaela Eduarda Lacerda Sibert",
+		"email": "rafaela.sibert@escola.pr.gov.br",
+		"followers": 43,
+		"following": 54
+	}
+],
   "repos": [
     {
       "id": 2,
