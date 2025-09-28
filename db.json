@@ -10,8 +10,8 @@
 		"following": 54
 	},
 	{
-		"login": "TokDoGrau",
-		"id": 8,
+		"login": "tokdograu",
+		"id": 2,
 		"avatar_url": "https://avatars.githubusercontent.com/u/125823124?v=4",
 		"name": "TokDoGrau",
 		"email": "TokDoGrau244@gmail.com",
@@ -20,7 +20,7 @@
 	},
 	{
 		"login": "Alan-campos17",
-		"id": 5,
+		"id": 3,
 		"avatar_url": "https://avatars.githubusercontent.com/u/149601081?v=4",
 		"name": "Alan campos Macena",
 		"email": "alan.macena@escola.pr.gov.br",
@@ -38,12 +38,39 @@
 	},
 	{
 		"login": "rafaela-eduarda",
-		"id": 7,
+		"id": 5,
 		"avatar_url": "https://avatars.githubusercontent.com/u/149601165?v=4&size=64",
 		"name": "Rafaela Eduarda Lacerda Sibert",
 		"email": "rafaela.sibert@escola.pr.gov.br",
 		"followers": 43,
 		"following": 54
+	},
+	{
+		"login": "Kaique-Lacerda",
+		"id": 6,
+		"avatar_url": "https://avatars.githubusercontent.com/u/149600790?v=4",
+		"name": "KAIQUE GABRIEL LACERDA CAMARGO",
+		"email": "kaique.lacerda.camargo@escola.pr.gov.br",
+		"followers": 7,
+		"following": 7
+	},
+	{
+		"login": "procopiuk",
+		"id": 7,
+		"avatar_url": "https://avatars.githubusercontent.com/u/149600991?v=4",
+		"name": "LARISSA PROCOPIUK DE JESUS",
+		"email": "larissa.procopiuk.jesus@escola.pr.gov.br",
+		"followers": 5,
+		"following": 1
+	},
+	{
+		"login": "Lucas-dirbal",
+		"id": 8,
+		"avatar_url": "https://avatars.githubusercontent.com/u/145569604?v=4",
+		"name": "LUCAS DIRCKSEN BALCEVICZ",
+		"email": "lucas.balcevicz@escola.pr.gov.br",
+		"followers": 10,
+		"following": 10
 	}
 ],
   "repos": [
