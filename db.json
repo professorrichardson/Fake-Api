@@ -1,5 +1,5 @@
 {
-	"users:"[
+	"users":[
 	{
 		"login": "professorrichardson",
 		"id": 1,
@@ -111,13 +111,34 @@
       "postId": 2
     },
     {
+	"id": 5,
       "name": "Alura_cursosss",
       "data": "1 de jan. de 2021",
-      "postId": 1,
-	}
+      "postId": 1
+	},
+	[
+  { "id": 6,  "name": "DevTalks_BR",       "data": "12 de jan. de 2021", "postId": 1 },
+  { "id": 7,  "name": "CoderHub",          "data": "03 de fev. de 2022", "postId": 2 },
+  { "id": 8,  "name": "Bits_n_Bridges",    "data": "27 de mar. de 2020", "postId": 3 },
+  { "id": 9,  "name": "FullStackClub",     "data": "09 de abr. de 2021", "postId": 4 },
+  { "id": 10, "name": "CursoExpress",      "data": "15 de mai. de 2022", "postId": 5 },
+  { "id": 11, "name": "Alpha_Labs",        "data": "01 de jun. de 2020", "postId": 6 },
+  { "id": 12, "name": "Techie_corner",     "data": "21 de jul. de 2021", "postId": 7 },
+  { "id": 13, "name": "StackCamp",         "data": "30 de ago. de 2022", "postId": 8 },
+  { "id": 14, "name": "ByteMakers",        "data": "11 de set. de 2021", "postId": 1 },
+  { "id": 15, "name": "AulaPratica",       "data": "04 de out. de 2020", "postId": 2 },
+  { "id": 16, "name": "LabDigital",        "data": "19 de nov. de 2022", "postId": 3 },
+  { "id": 17, "name": "MiniCursosOnline",  "data": "07 de dez. de 2021", "postId": 4 },
+  { "id": 18, "name": "HackNight",         "data": "14 de jan. de 2022", "postId": 5 },
+  { "id": 19, "name": "CodeFactory",       "data": "25 de fev. de 2020", "postId": 6 },
+  { "id": 20, "name": "ProfessorRichardson",     "data": "06 de mar. de 2021", "postId": 7 },
+  { "id": 21, "name": "DADOSemFoco",       "data": "18 de abr. de 2022", "postId": 8 },
+  { "id": 22, "name": "AceleraCursos",     "data": "02 de mai. de 2020", "postId": 1 },
+  { "id": 23, "name": "InfraTeacher",      "data": "28 de jun. de 2021", "postId": 2 },
+  { "id": 24, "name": "MobileMinds",       "data": "10 de jul. de 2022", "postId": 3 },
+  { "id": 25, "name": "RoboAulas",         "data": "23 de ago. de 2021", "postId": 4 }
+]
+
   ]
 }
-      "id": 5
-    }
-  ]
-}
+      
