@@ -71,6 +71,15 @@
 		"email": "lucas.balcevicz@escola.pr.gov.br",
 		"followers": 10,
 		"following": 10
+	},
+		{
+		"login": "KauanyMedardo",
+		"id": 8,
+		"avatar_url": "https://avatars.githubusercontent.com/u/149601111?s=48&v=4",
+		"name": "KAUANY EMANUELY LACERDA MEDARDO",
+		"email": "kauany.medardo@escola.pr.gov.br",
+		"followers": 3,
+		"following": 4
 	}
 ],
   "repos": [
