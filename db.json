@@ -125,7 +125,6 @@
       "data": "1 de jan. de 2021",
       "postId": 1
 	},
-	[
   { "id": 6,  "name": "DevTalks_BR",       "data": "12 de jan. de 2021", "postId": 1 },
   { "id": 7,  "name": "CoderHub",          "data": "03 de fev. de 2022", "postId": 2 },
   { "id": 8,  "name": "Bits_n_Bridges",    "data": "27 de mar. de 2020", "postId": 3 },
@@ -146,7 +145,6 @@
   { "id": 23, "name": "InfraTeacher",      "data": "28 de jun. de 2021", "postId": 2 },
   { "id": 24, "name": "MobileMinds",       "data": "10 de jul. de 2022", "postId": 3 },
   { "id": 25, "name": "RoboAulas",         "data": "23 de ago. de 2021", "postId": 4 }
-]
 
   ]
 }
